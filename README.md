@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @jabulilendimande 
+- 👋 Hi, I’m @jabulilendimande
+-  I am a female
+  
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...    A student in BSc Computer Science with Information Technology at UKZN
 -  I have done the following languages
