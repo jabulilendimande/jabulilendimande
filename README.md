@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @jabulilendimande
--  I am a female
+-  I am a female 
   
-- 👀 I’m interested in ...
+- 👀 I’m interested in ... Web Development , Systems Administration and IT Support
+- 
 - I graduated from the University of KwaZulu Natal with a BSc Degree in Computer Science and IT  as class of 2023.
-- 🌱 I’m currently learning ...   Full stack Web development on FreeCodeCamp  . I am also infusing dom of the knowledge from Microsoft Learn
+- 🌱 I’m currently learning ...   Full stack Web development on FreeCodeCamp  . I am also using the knowledge of Web Development from Microsoft Learn to gain more. 
 - 
 -  I have done the following languages
 -  1 . Java  , C# , C++ ,
