@@ -7,7 +7,6 @@ From my qualification I gained knowldge of the following programming languages a
 -  Languages :   Java  , C# , C++ , SQL ;  HTML , JavaScript ,CSS , PHP and Python(BASICS)
 -  Technologies : Linux(basics) , Git , Visual Studio Code 
 
-As a startup in my career I am more focused on cybersecurity.
 I have gained one year opportunity working in a cybersecurity environment as SOC cybersecurity analyst inter ( infused with IT support duties) 
 
 
